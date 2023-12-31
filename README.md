@@ -1,5 +1,10 @@
 ### Hi there 👋
-<a href="https://codeforces.com/profile/trolgod0914" target="_blank"><img src="https://img.shields.io/badge/Codeforces-#FFFFFF?style=plastic&logo=Codeforces&logoColor=#1F8ACB"/></a>
+
+## 💻 My Stack
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+## 💻 ...
+<a href = "https://codeforces.com/profile/trolgod0914"><img alt="GitHub" src ="https://img.shields.io/badge/Codeforces.svg?&style=for-the-badge&logo=Codeforces&logoColor=white"/>
 <!--
 **trolgod0914/trolgod0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
