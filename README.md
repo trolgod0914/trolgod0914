@@ -3,10 +3,10 @@
 ![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=trolgod0914&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trolgod0914)](https://solved.ac/trolgod0914/)
 
-## :tongue: My Languages
+## :tongue: Languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
 
-## :link: My Platforms & My Tools
+## :link: Platforms & Tools
 <a href = "https://github.com/trolgod0914"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> <a href = "https://codeforces.com/profile/trolgod0914"><img alt="Codeforces" src ="https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style=for-the-badge&logo=Codeforces&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=RStudio&logoColor=white"/>
 
 ## :telephone_receiver: Contact
