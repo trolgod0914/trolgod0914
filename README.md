@@ -1,7 +1,8 @@
 ### Hi there 👋 My name is Jaewon Lim.
 
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=trolgod0914&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trolgod0914)](https://solved.ac/trolgod0914/)
+
+![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=trolgod0914&show_icons=true&theme=radical)
 
 ## :tongue: Languages
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
